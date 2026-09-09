@@ -1,0 +1,67 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=180&section=header&text=Justas&fontColor=ffffff&fontSize=64&fontAlignY=34&desc=low-latency%20systems%20%C2%B7%20quant%20research%20%C2%B7%20agent%20evals&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=560&lines=Rust+for+the+hot+path.;Python+for+the+research.;TypeScript+for+the+screen." alt="typing" />
+
+</div>
+
+---
+
+### Who I am
+
+Self-taught engineer working mostly at the boring end of hard problems: microsecond budgets, probabilistic forecasts, and whether a system actually does what the benchmark claims. I like projects where the failure is measurable.
+
+### What I'm working on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[btc-alpha](https://github.com/TheJustas228/btc-alpha)** &nbsp;`Rust` `Python`
+
+Low-latency crypto prediction for BTC/ETH/SOL/XRP futures. Rust core, Python training pipeline — research → paper → live.
+
+</td>
+<td width="50%" valign="top">
+
+**[crucible](https://github.com/TheJustas228/crucible)** &nbsp;`Python`
+
+RL environments for evaluating AI coding agents on bugfix, feature, refactor and performance tasks — reproducible workspaces, verified golden solutions.
+
+</td>
+</tr>
+</table>
+
+Also somewhere in the pile: a [Bybit trading dashboard](https://github.com/TheJustas228/BTC_Price_prediction_model) (Fastify + FastAPI + Next.js over 1-second market frames) and a [portfolio recommender](https://github.com/TheJustas228/startfolio) that explains itself in plain English.
+
+### What I use
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=TheJustas228&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=8957E5&text_color=8b949e" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJustas228&layout=compact&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=8b949e&langs_count=6" alt="top languages" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Reach me by opening an issue on anything above — that's the fastest way.</sub>
+</div>
