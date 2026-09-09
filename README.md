@@ -55,8 +55,8 @@ Also somewhere in the pile: a [Bybit trading dashboard](https://github.com/TheJu
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=TheJustas228&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=8957E5&text_color=8b949e" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJustas228&layout=compact&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=8b949e&langs_count=6" alt="top languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheJustas228&theme=transparent" alt="repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheJustas228&theme=transparent" alt="most committed language" />
 
 </div>
 
