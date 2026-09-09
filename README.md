@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=180&section=header&text=Justas&fontColor=ffffff&fontSize=64&fontAlignY=34&desc=low-latency%20systems%20%C2%B7%20quant%20research%20%C2%B7%20agent%20evals&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=180&section=header&text=Justas&fontColor=ffffff&fontSize=64&fontAlignY=34&desc=software%20engineering%20%C2%B7%20machine%20learning%20%C2%B7%20data%20science&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=560&lines=Rust+for+the+hot+path.;Python+for+the+research.;TypeScript+for+the+screen." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=560&lines=Train+the+model.;Then+build+the+system+that+serves+it.;Python%2C+Rust%2C+TypeScript." alt="typing" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### Who I am
 
-Self-taught engineer working mostly at the boring end of hard problems: microsecond budgets, probabilistic forecasts, and whether a system actually does what the benchmark claims. I like projects where the failure is measurable.
+Software engineer working across machine learning and data — the model *and* the system that has to serve it, since the second part is where most of them die. I like problems where failure is measurable: forecasts you can score, latency you can budget, benchmarks that test what they claim to test.
 
 ### What I'm working on
 
