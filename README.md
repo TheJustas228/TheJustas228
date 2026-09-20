@@ -55,8 +55,8 @@ Also somewhere in the pile: a [Bybit trading dashboard](https://github.com/TheJu
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheJustas228&theme=transparent" alt="repos per language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheJustas228&theme=transparent" alt="most committed language" />
+<img width="400" src="./assets/top-languages.svg" alt="Top languages by repo" />
+<img width="400" src="./assets/language-bytes.svg" alt="Language distribution by code size" />
 
 </div>
 

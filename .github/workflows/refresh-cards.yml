@@ -1,0 +1,50 @@
+name: Refresh language cards
+
+# The previous cards were served by github-profile-summary-cards.vercel.app,
+# a shared instance whose pooled GitHub token routinely exhausts its rate
+# limit and renders an "API rate limit exceeded" box instead of the chart.
+# We now render the SVGs ourselves, on this repo's own token, and commit them.
+
+on:
+  schedule:
+    - cron: '23 4 * * 1'   # Mondays, off-the-hour to dodge scheduler congestion
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/gen-cards.mjs'
+      - '.github/workflows/refresh-cards.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-cards
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Render cards
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/gen-cards.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "Justas"
+          git config user.email "minecraft.justas29@gmail.com"
+          git add assets/top-languages.svg assets/language-bytes.svg
+          if git diff --staged --quiet; then
+            echo "cards unchanged"
+          else
+            git commit -m "chore: refresh language cards"
+            git push
+          fi
