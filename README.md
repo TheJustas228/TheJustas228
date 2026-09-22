@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=180&section=header&text=Justas&fontColor=ffffff&fontSize=64&fontAlignY=34&desc=software%20engineering%20%C2%B7%20machine%20learning%20%C2%B7%20data%20science&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=560&lines=Train+the+model.;Then+build+the+system+that+serves+it.;Python%2C+Rust%2C+TypeScript." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=560&lines=Train+the+model.;Then+build+the+system+that+serves+it.;Python%2C+TypeScript%2C+Rust%2C+C." alt="typing" />
 
 </div>
 
@@ -39,9 +39,10 @@ Also somewhere in the pile: a [Bybit trading dashboard](https://github.com/TheJu
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
