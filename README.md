@@ -55,8 +55,7 @@ Also somewhere in the pile: a [Bybit trading dashboard](https://github.com/TheJu
 
 <div align="center">
 
-<img width="400" src="./assets/top-languages.svg" alt="Top languages by repo" />
-<img width="400" src="./assets/language-bytes.svg" alt="Language distribution by code size" />
+<img width="400" src="./assets/language-bytes.svg" alt="Most used languages" />
 
 </div>
 
