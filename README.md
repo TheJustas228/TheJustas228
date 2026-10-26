@@ -14,6 +14,10 @@ Software engineer working across machine learning and data — the model *and* t
 
 ### What I'm working on
 
+**[pgchroma](https://github.com/TheJustas228/pgchroma)** &nbsp;`Python` `Postgres`
+
+Chroma's API on your Postgres: run Chroma apps on pgvector without changing code, with a verified one-command migration off Chroma Cloud before it shuts down (Dec 22, 2026). Hybrid search, Search API, Neon and Supabase. [Docs](https://thejustas228.github.io/pgchroma/)
+
 <table>
 <tr>
 <td width="50%" valign="top">
